@@ -15,12 +15,7 @@
     Este é o conteúdo da primeira div.
   </div>
   <div 
-  style=
-  'width:50%; 
-   display:flex;
-   justify-content: center;
-   '
-  >
+  style="width:50%;">
   <img width="50" height="50" src="./img/icons8-github-150.png"/>
   </div>
 </section>
