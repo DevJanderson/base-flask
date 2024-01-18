@@ -17,7 +17,7 @@
   <div 
   style="width:50%;">
   </div>
-</section>
   <img width="50" height="50" src="./img/icons8-github-150.png" align="right"/>
+</section>
 
 ![logo github](https://img.icons8.com/ios-filled/50/github.png)
