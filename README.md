@@ -21,6 +21,8 @@
    justify-content: center;
    '
   >
-   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+  <img width="50" height="50" src="./img/icons8-github-150.png"/>
   </div>
 </section>
+
+![logo github](https://img.icons8.com/ios-filled/50/github.png)
